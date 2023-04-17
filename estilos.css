@@ -1,0 +1,16 @@
+h1 {
+	color: red;
+	font-size: 28px;
+	text-align: center;
+}
+
+p {
+	color: rgba(14, 5, 34, 0.685);
+	font-size: 18px;
+	line-height: 1.5;
+}
+.test{
+	color: blue;
+	font-size: 28px;
+	text-align: center;
+}
